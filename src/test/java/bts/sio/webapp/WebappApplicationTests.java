@@ -1,13 +1,13 @@
-package bts.sio.api;
+package bts.sio.webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Paris2024apiApplicationTests {
+class WebappApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
